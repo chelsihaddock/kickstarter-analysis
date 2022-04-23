@@ -22,7 +22,7 @@ During the process of creating the outcomes based on goals chart, I ran into an 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-My conclusion from the Outcomes based on Launch Date analysis is that success is likely in May or June based on previous launches. Success decreases toward the end of the year in the winter months.
+My conclusion from the Outcomes based on Launch Date analysis is that success is likely in May or June based on previous launches. My secondary conclusion is that success decreases toward the end of the year in the winter months.
 
 - What can you conclude about the Outcomes based on Goals?
 My conclusion from the Outcomes based on Goals analysis is that the most successful goal range is <5000. It was also interesting to note that there was no record of a play being canceled in the past. 
